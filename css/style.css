@@ -1,0 +1,96 @@
+body {
+    text-align:center;
+    font-family: Lucida console; sans-serif;
+    background-color: #d6d6c2;
+    color:#0f0f0a;
+    margin:0;
+    margin: 100px 50px 10px 50px;
+}
+  
+h1{
+    margin: 40px;
+    font-weight: bold;
+    text-shadow: rgb(87, 18, 18) 1px 2px 5px;
+}
+  
+body{
+    font-size: 18px;
+    line-height: 1.5;
+}
+  
+.principal a{
+    color: #FFF;
+    text-decoration: #ffffff underline;
+    font-weight: normal;
+}
+  
+.principal {
+    height: 40px;
+    background:#996666;
+    width:90%;
+    margin: auto;
+    border-radius: 3px;
+    box-shadow: 6px 9px 12px rgb(133, 155, 135);
+}
+  
+.principal li{
+    display: inline-block;
+    line-height: 2.5;
+    margin: 0 120px;
+}
+  
+iframe p a{
+    font-size:10px;
+    margin-top:0;
+}
+  
+section{
+    width: 80%;
+    margin: 100px;
+}
+  
+#traducao{
+    text-align: left;
+}
+  
+#versaoFr{
+    text-align: right;
+}
+  
+h3{
+    font-weight: bold;
+}
+  
+li{
+    text-align:center;
+    font-weight: bold;
+    list-style-type: none;
+}
+  
+img{
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 5px;
+}
+  
+iframe{
+    display: block;
+    margin: 50px auto;
+    width: 70%;
+    border-radius: 5px;
+}
+
+footer{
+    font-size: 12px;
+    margin: 40px auto;
+    color: #000000;
+}
+
+#nome, #email, #telefone{
+    border: 2px;
+    border-radius: 2px;
+}
